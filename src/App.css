@@ -1,0 +1,15 @@
+.app {
+  display: grid;
+  place-items: center;
+  background-color: #fff1eb;
+  background-image: linear-gradient(-20deg, #fff1eb 5%, #ace0f9 100%);
+  height: 100vh;
+}
+.app_Body {
+  background-color: #ededed;
+  height: 94vh;
+  width: 94vw;
+  margin: -20px 0px;
+  display: flex;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.7);
+}
